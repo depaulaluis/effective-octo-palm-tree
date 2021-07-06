@@ -4,4 +4,6 @@ body{
 
 .form_container{
     background-color: #d9e2e9;
+    display: flex;
+    justify-content: center
 }
