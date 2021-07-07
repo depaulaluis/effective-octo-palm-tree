@@ -2,6 +2,12 @@ body{
     background-color: #f9f9f9;;
 }
 
+
+img{
+    width: 100px;
+    padding: 2rem 0;
+}
+
 .form_container{
     background-color: #d9e2e9;
     display: flex;
