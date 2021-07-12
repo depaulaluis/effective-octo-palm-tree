@@ -37,11 +37,16 @@ body{
     text-align: center;
 }
 
-.input-cpf{
+.box-cpf{
     width: 21%;
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+}
+
+#input-cpf{
+    -moz-appearance: textfield;
+    appearance: textfield;
 }
 
 h3{
